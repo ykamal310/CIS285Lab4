@@ -4,6 +4,10 @@ public class Hello {
             System.out.println("Hello World"+i);
         }
 
+        for(int k=1;k<=10;k++) {
+            System.out.println("How are you doing world+k");
+        }
+
         for(int j=1;j<=10;j++) {
             System.out.println("Goodbye World"+j);
         }
