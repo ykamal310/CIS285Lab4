@@ -5,7 +5,7 @@ public class Hello {
         }
 
         for(int k=1;k<=10;k++) {
-            System.out.println("How are you doing world+k);
+            System.out.println("How are you doing world+k");
         }
 
         for(int j=1;j<=10;j++) {
